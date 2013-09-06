@@ -1,0 +1,6 @@
+<?php
+return array(
+    'key'    => '[aws access key]',
+    'secret' => '[aws secret key]',
+    'region' => '[aws region]', // (e.g., us-west-2)
+);
